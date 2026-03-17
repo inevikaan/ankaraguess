@@ -1,16 +1,25 @@
-# ankara_guess
+# AnkaraGuess
 
-A new Flutter project.
+AnkaraGuess is a Flutter-based mini game where players try to guess locations in Ankara on the map.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+The goal of the game is simple:  
+see a location, make a guess on the map, and earn points based on how accurate the guess is.
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- flutter_map
+- OpenStreetMap
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+
+Work in progress.  
+The project is still being developed and improved.
+
+## Run the Project
+
+```bash
+flutter pub get
