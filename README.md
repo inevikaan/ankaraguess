@@ -23,3 +23,4 @@ The project is still being developed and improved.
 
 ```bash
 flutter pub get
+flutter run
